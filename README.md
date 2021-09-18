@@ -84,7 +84,7 @@ aws configure
 ```bash
 
 aws s3api create-bucket \
-    --bucket k8s-sample-store \
+    --bucket k8s-blanja \
     --region us-east-1
 
 # for reqion other than use-east1 use command bellow
